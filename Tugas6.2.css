@@ -1,0 +1,64 @@
+#container {
+    display: flex;
+    grid-template-columns: auto;
+   
+}
+
+.nav {
+    z-index: 4;
+    position: absolute;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 0px;
+    height: 500px;
+    width: 100px;
+    background-color: pink;
+}
+
+.header {
+    z-index: 4;
+    position: absolute;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 100px;
+    height: 100px;
+    width: 500px;
+    background-color:yellow;
+}
+
+.article {
+    z-index: 4;
+    position: absolute;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 100px;
+    height: 300px;
+    width: 300px;
+    background-color:white;
+} 
+
+.Aside {
+    z-index: 4;
+    position: absolute;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 400px;
+    height: 300px;
+    width: 200px;
+    background-color:rgb(74, 169, 185);
+}
+
+.footer {
+    z-index: 4;
+    position: absolute;
+    margin-top: 400px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 100px;
+    height: 100px;
+    width: 500px;
+    background-color:yellow;
+}
