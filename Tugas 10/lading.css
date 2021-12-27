@@ -1,0 +1,162 @@
+        article.atas {
+            display: flex;
+        }
+        
+        .Category {
+            padding-left: 100px;
+            margin-left: 200px;
+        }
+        
+        .Cart {
+            margin-left: 1300px;
+            z-index: 1;
+            position: absolute;
+        }
+        
+        .disn {
+            z-index: 4;
+            position: absolute;
+            margin-left: 1200px;
+        }
+        
+        .grey {
+            background-color: rgb(221, 218, 218);
+            width: 2000px;
+        }
+        
+        .awal {
+            font-style: normal;
+            text-align: center;
+            margin-left: 100px;
+            margin-right: 1600px;
+            margin-top: 40px;
+            background-color: rgb(221, 218, 218);
+        }
+        
+        .call {
+            background-color: white;
+            margin-left: 500px;
+            margin-right: 500px;
+            text-align: center;
+        }
+        /* .garis {
+            font-style: normal;
+            text-align: center;
+            position: relative;
+        }
+         */
+        
+        .text-about {
+            background-color: rgb(221, 218, 218);
+            text-align: left;
+            font-style: normal;
+            margin-left: 100px;
+            margin-right: 1600px;
+            margin-top: 40px;
+        }
+        
+        .text1 {
+            margin-left: 100px;
+            margin-right: 1000px;
+        }
+        
+        .text2 {
+            margin-left: 900px;
+            margin-right: 1000px;
+        }
+        
+        .feature1 {
+            background-color: rgb(221, 218, 218);
+            margin-left: 100px;
+            margin-right: 1600px;
+            margin-top: 40px;
+        }
+        
+        .picture1 {
+            position: absolute;
+            z-index: 2;
+            margin-left: 590px;
+        }
+        
+        .feature2 {
+            background-color: rgb(221, 218, 218);
+            margin-left: 100px;
+            margin-right: 1600px;
+            margin-top: 40px;
+        }
+        
+        .feature3 {
+            background-color: rgb(221, 218, 218);
+            margin-left: 100px;
+            margin-right: 1600px;
+            margin-top: 40px;
+        }
+        
+        .social {
+            text-align: center;
+            background-color: rgb(221, 218, 218);
+            margin-top: 40px;
+            margin-bottom: 250px;
+            margin-left: 100px;
+            margin-right: 1600px;
+            margin-top: 40px;
+        }
+        
+        .oval {
+            z-index: 4;
+            position: absolute;
+            margin-left: 100px;
+        }
+        
+        .owl {
+            z-index: 4;
+            position: absolute;
+            margin-left: 200px;
+        }
+        
+        .finger {
+            z-index: 4;
+            position: absolute;
+            margin-left: 300px;
+        }
+        
+        .leaf {
+            z-index: 4;
+            position: absolute;
+            margin-left: 400px;
+        }
+        
+        .beo {
+            z-index: 4;
+            position: absolute;
+            margin-left: 500px;
+        }
+        
+        .kubus {
+            z-index: 4;
+            position: absolute;
+            margin-left: 600px;
+        }
+        
+        .lolipop {
+            margin-left: 700px;
+        }
+        
+        .akhir {
+            text-align: center;
+            background-color: rgb(221, 218, 218);
+            margin-left: 100px;
+            margin-right: 1600px;
+            margin-top: 20px;
+        }
+        
+        .android {
+            z-index: 4;
+            position: absolute;
+            background-color: white;
+            margin-left: 600px;
+        }
+        
+        .apple {
+            background-color: white;
+        }
