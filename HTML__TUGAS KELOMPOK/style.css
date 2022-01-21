@@ -1,0 +1,72 @@
+section #borem .gu-slide {
+    margin-left: 200px;
+}
+
+#borem .drop-down {
+    position: relative;
+    margin-left: 500px;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#col .lorem-col {
+    margin-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#col .pic-0 {
+    margin-bottom: 15px;
+    margin-left: 70px;
+    height: 10px;
+    width: 10px;
+}
+
+#col .pic {
+    margin-bottom: 15px;
+    margin-left: 50px;
+    height: 10px;
+    width: 10px;
+}
+
+#col .pic1 {
+    margin-bottom: 15px;
+    margin-left: 50px;
+    height: 10px;
+    width: 10px;
+}
+
+#col .pic-2 {
+    margin-bottom: 15px;
+    margin-left: 50px;
+    height: 10px;
+    width: 10px;
+}
+
+.news-campus {
+    margin-bottom: 15px;
+    margin-left: 500px;
+    color: black;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.news-collage {
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.d-col {
+    margin-left: 800px;
+}
+
+fieldset.hero-container {
+    width: 350px;
+    height: 250px;
+    margin-left: 400px;
+}
+
+fieldset.col-sherf {
+    width: 450px;
+    height: 500px;
+    margin-left: 400px;
+}
